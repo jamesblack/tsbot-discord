@@ -1,0 +1,2 @@
+bot: node-dev ./build/index.js
+compile: tsc -w

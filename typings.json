@@ -1,0 +1,7 @@
+{
+  "name": "jackbliss-thebot-typescript",
+  "version": false,
+  "ambientDependencies": {
+    "node": "registry:dt/node#4.0.0+20160317120654"
+  }
+}
